@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bjurbom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bjurbom)](https://github.com/anuraghazra/github-readme-stats)
+[![Bjurbom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bjurbom&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
