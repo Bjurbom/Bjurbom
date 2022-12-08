@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Bjurbom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bjurbom)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Bjurbom/Bjurbom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
